@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f37b847-da05-4070-a85b-1f59b43febc4" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/HW1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW1/BankService.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW1/BankService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/.project" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW3/ClockWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW3/ClockWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/HelloWorldGUIApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture05_Purse_1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture05_Purse_1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture05_Purse_1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture05_Purse_1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture05_Purse_1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture05_Purse_1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture05_Purse_1/Purse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture05_Purse_1/Purse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture05_Purse_1/PurseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture05_Purse_1/PurseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture05_Purse_1/PurseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture05_Purse_1/PurseManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture05_Purse_1/PurseReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture05_Purse_1/PurseReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture05_Purse_1/PurseWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture05_Purse_1/PurseWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_Average/CourseManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_Average/CourseManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/AnimationWriter.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/AnimationWriter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/AnimationWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/AnimationWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/BallWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/BallWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/BounceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/BounceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/BounceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/BounceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/BounceTheBall.class" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/BounceTheBall.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/BounceTheBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/BounceTheBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/BoxWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/BoxWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/MovingBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/MovingBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06_BounceBall_1/TestModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06_BounceBall_1/TestModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/GameMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/GameMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/GameSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/GameSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/MapSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/MapSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/MouseAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/MouseAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/NumberButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/NumberButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/NumberFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/NumberFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/Omok.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/Omok.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/ShowMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/ShowMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Omok_final/src/Stone.java" beforeDir="false" afterPath="$PROJECT_DIR$/Omok_final/src/Stone.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HW1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L6V4hU9bVzvy8aca6vHH3rJ180" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/yoonjit/공부/java_study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="9f37b847-da05-4070-a85b-1f59b43febc4" name="변경" comment="" />
+      <created>1675191330460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675191330460</updated>
+      <workItem from="1675191331898" duration="614000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
